@@ -10,4 +10,4 @@ Espero que goste e se delicie com essas receitas, fique a vontade de postar nas 
 
 Bom proveito 😉
 
-- [Strogonoff de frango] ([My-cookbook-/Strogonoff.md at master · felipebassetti/My-cookbook- · GitHub](https://github.com/felipebassetti/My-cookbook-/blob/master/recipes/Strogonoff.md))
+- [[Strogonoff de frango]()](https://github.com/felipebassetti/My-cookbook-/blob/master/recipes/Strogonoff.md)
