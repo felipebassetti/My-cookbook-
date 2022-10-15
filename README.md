@@ -11,5 +11,3 @@ Espero que goste e se delicie com essas receitas, fique a vontade de postar nas 
 Bom proveito 😉
 
 - Strogonoff de frango
-
-- Pave 
